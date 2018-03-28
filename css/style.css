@@ -48,7 +48,7 @@ overflow: auto;
 
 .card{
   float: left;
-  width: 15%;
+  width:20%;
   margin:0 0 5% 5%;
   text-align:center;
 }
